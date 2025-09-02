@@ -15,7 +15,7 @@ GitHub: github.com/harishprabhu/ecommerce-sales-analytics
 # =============================================================================
 # IMPORTS - Core Data Science Libraries
 # =============================================================================
-import pandas as pd              # Data manipulation (think Excel on steroids)
+import pandas as pd              # Data manipulation 
 import numpy as np              # Mathematical operations and statistics
 import matplotlib.pyplot as plt # Chart creation and visualization
 import seaborn as sns           # Professional statistical visualizations
