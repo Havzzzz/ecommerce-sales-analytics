@@ -9,7 +9,7 @@ Professional data analysis project demonstrating:
 
 Author: Harish Prabhu P
 Purpose: Data Analyst Portfolio Project
-GitHub: github.com/harishprabhu/ecommerce-sales-analytics
+GitHub: github.com/Havzzzz/ecommerce-sales-analytics
 """
 
 # =============================================================================
